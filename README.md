@@ -1,7 +1,7 @@
 # ProjAcademiaCodeBuilder
 
 # Academia CodeBuilder
-# Objetivo 
+ Objetivo 
     Nossos sistemas estão ficando obsoletos, gerando muitos gastos para manter, e aos poucos 
     estamos solicitando as criações dos programas mais atualizados. 
     O sistema anterior teve fim decretado pela fabricante para segundo semestre de 2022 
@@ -9,7 +9,7 @@
     informações das fichas. 
     
     
-    # O que esperamos do programa 
+# O que esperamos do programa 
     O programa deve importar os dados para a nova base. 
     Temos atualmente 3 arquivos em formato csv. 
     Todos os arquivos estão preparados para o programa realizar a importação para o novo sistema a 
